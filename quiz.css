@@ -1,0 +1,60 @@
+* {   
+    padding-left: 10px;
+    
+}
+
+h1 {
+    text-align: center;
+    size: 30px;
+}
+
+h3 {
+    text-align: center;
+}
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, sans-serif; 
+    color: white;
+    background-image: url("http://blogs.intel.com/iot/files/2015/01/SmartBuilding.jpg")
+  
+}
+
+input[type = text] {
+    background: white;
+    padding: 5px 20px;
+    margin: 8px 0;
+}
+
+button {
+    color: black;
+    margin-top: 10px;
+    
+}
+
+div {
+    text-align: center;
+}
+
+a {
+    color: white;
+    text-align: center;
+}
+
+.buttons {
+   
+    text-decoration: none;
+    background-color: #ffffff;
+    color: #080808;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid #cccccc;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #cccccc;
+
+
+
+}
+
+.resume {
+    Margin-top: 5px;
+}
